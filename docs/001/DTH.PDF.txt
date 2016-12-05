@@ -1,0 +1,26 @@
+DTH.PDF - dodaj pozniej! - dokumentacja techniczna
+karta produktowa!
+rysunek urz¹dzeñ (dwg)
+
+Numer
+katalogowy	CA20003
+
+Moc silnika [kW]	2,2	
+
+Napiêcie [v]	3x400
+
+Ciœnienie akustyczne [dB(A)]	74
+
+Wydatek maksymalny [m3/h]	2700
+
+Podciœnienie maksymalne [Pa]	2450
+
+Masa [kg]	135
+
+Urz¹dzenie filtrowentylacyjne stanowiskowe w wykonaniu wewnêtrznym CleanAir - 2000 produkowane jest jako przejezdne lub wisz¹ce, przeznaczone do odci¹gania zapylonego powietrza i do jego oczyszczania z py³ów suchych, nieklej¹cych, nieagresywnych chemicznie i niewybuchowych.
+
+Zastosowanie – w przemyœle metalurgicznym g³ównie przy spawaniu, szlifowaniu, w przemyœle chemicznym, farmaceutycznym, spo¿ywczym i innych przy przesypywaniu materia³ów sypkich oraz przy obróbce tworzyw sztucznych.
+
+G³ównym elementem filtruj¹cym jest wk³ad patronowy oczyszczany automatycznie impulsem sprê¿onego powietrza . Urz¹dzenia wyposa¿one jest w dwa wk³ady filtrów wstêpnych siatkowych oraz filtr koñcowy z tkanin¹ filtracyjn¹ nasycon¹ wêglem aktywnym. W urz¹dzeniu wbudowana jest komora rozprê¿na spe³niaj¹ca funkcjê „³apacza iskier”.
+
+Filtr CleanAir - 2000 przystosowany jest do wspó³pracy z dwoma stoj¹cymi ramieniami odci¹gowymi typu przewodowego O160mm o zasiêgu 3m.
